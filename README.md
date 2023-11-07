@@ -1,4 +1,4 @@
-# SPARQL_with_Python
+# Retrieving SPARQL Queries with Python
 
 We can access the MiMoTextBase SPARQL endpoint also with Python, which enables us to directly load and analyze the data we have queried.
 
